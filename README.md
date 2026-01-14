@@ -1,5 +1,7 @@
 The overarching idea of the project is to understand the scope of the opportunity regarding transport provision and poverty mitigation in the UK. To deep-dive, I developed a heat-map to pinpointing hotspot areas where transport poverty has the greatest impact on the population.
+
 I used data analytics to create a Transport Poverty Index and a Bus Frequency Score. To formulate the Transport Poverty Index, I used multiple datasets like: IMD deciles to understand income constraints, Census data on elderly residents, disability levels, and car availability to understand vulnerability. I also used some datasets to identify areas where people take too long to reach hospitals, GPs. For the Bus Frequency Score, I used BODS datasets — so GTFS routes, stops, and frequencies — to  map areas, where the frequency of buses is very low, essentially leading to transport poverty.
+
 Each shape on this heat map represents an LSOA(Lower Layer Super Output Areas), one of the smallest statistical areas in the UK. The colour of each polygon shows the level of transport poverty based on our Transport Poverty Index.
 
 At the bottom of the map, you’ll see a colour bar that runs from light yellow to deep red. This is the Transport Poverty Index scale.
