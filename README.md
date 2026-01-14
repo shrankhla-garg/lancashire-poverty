@@ -18,4 +18,4 @@ To make the map easier to interpret, I've drawn local authority boundaries in th
 
 There are large labels for each local authority so you always know which area you’re exploring as you zoom in and out.
 
-<img width="451" height="706" alt="image" src="https://github.com/user-attachments/assets/a68d411a-d236-4c7c-a6bb-1a26297d8c45" />
+
