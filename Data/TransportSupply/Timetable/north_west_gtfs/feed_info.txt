@@ -1,2 +1,3 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Bus Open Data Service (BODS),https://www.bus-data.dft.gov.uk/,EN,20251107,21250928,20251107_035159
+version https://git-lfs.github.com/spec/v1
+oid sha256:e253523d9654785aa19dee649798684ad3fb3acb973d36e0763d934fb4b07c69
+size 191
